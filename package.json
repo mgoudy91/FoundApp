@@ -33,7 +33,7 @@
     "deploy": "gh-pages -d web-build",
     "predeploy": "expo export:web"
   },
-  "private": true,
+  "private": false,
   "homepage": "https://mgoudy91.github.io/FoundApp",
   "version": "1.0.0",
   "name": "carynapp"
