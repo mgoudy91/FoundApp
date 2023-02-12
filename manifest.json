@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "carynapp",
+  "short_name": "carynapp",
+  "start_url": "/?utm_source=web_app_manifest"
+}

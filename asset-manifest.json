@@ -1,0 +1,31 @@
+{
+  "files": {
+    "app.js": "/FoundApp/static/js/app.14cccb95.chunk.js",
+    "app.js.map": "/FoundApp/static/js/app.14cccb95.chunk.js.map",
+    "runtime~app.js": "/FoundApp/static/js/runtime~app.45bad6b1.js",
+    "runtime~app.js.map": "/FoundApp/static/js/runtime~app.45bad6b1.js.map",
+    "static/js/2.ce0e37f5.chunk.js": "/FoundApp/static/js/2.ce0e37f5.chunk.js",
+    "static/js/2.ce0e37f5.chunk.js.map": "/FoundApp/static/js/2.ce0e37f5.chunk.js.map",
+    "fonts/AntDesign.ttf": "/FoundApp/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/FoundApp/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/FoundApp/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/FoundApp/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/FoundApp/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/FoundApp/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/FoundApp/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/FoundApp/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/FoundApp/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/FoundApp/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/FoundApp/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/FoundApp/./fonts/SimpleLineIcons.ttf",
+    "index.html": "/FoundApp/index.html",
+    "manifest.json": "/FoundApp/manifest.json",
+    "serve.json": "/FoundApp/serve.json",
+    "static/js/2.ce0e37f5.chunk.js.LICENSE.txt": "/FoundApp/static/js/2.ce0e37f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.45bad6b1.js",
+    "static/js/2.ce0e37f5.chunk.js",
+    "static/js/app.14cccb95.chunk.js"
+  ]
+}
